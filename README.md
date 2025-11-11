@@ -15,8 +15,8 @@ I’ve been a full-stack developer for over 5 years, building and breaking thing
 
 ### 🔥 Past Projects
 
-- Created, developed and managed StarLife, the largest French FiveM server few years ago
-- Developed Fortnite cheats, which gave me deep insights into game security (now I'm on the defense side!)
+- Created, developed, and managed LVP PVP, one of the biggest French FiveM PvP servers.
+- Developed custom websites for clients, from portfolios to restaurant and fast-food sites, gaining solid experience in web design and user experience.
 
 ### 🛠️ Tech Stack
 
