@@ -38,7 +38,7 @@ I’ve been a full-stack developer for over 5 years, building and breaking thing
 ### 🔗 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-can.y130-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.instagram.com/can.y130/)
-[![Discord](https://img.shields.io/badge/-ayznnn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1247844049797513267)
+[![Discord](https://img.shields.io/badge/-Can-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1247844049797513267)
 
 ---
 
