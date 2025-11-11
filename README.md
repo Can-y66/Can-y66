@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm Can
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=can-y66&style=plastic)
-[![Website](https://img.shields.io/website?label=ayim.fr&style=plastic&url=http%3A%2F%ayim.fr)](https://ayim.fr)
+[![Website](https://img.shields.io/website?label=ayim.fr&style=plastic&url=https%3A%2F%2Fayim.fr)](https://ayim.fr)
+
 
 ## 💻 Full-Stack Developer 
 
