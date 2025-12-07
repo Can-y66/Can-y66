@@ -30,11 +30,6 @@ I’ve been a full-stack developer for over 5 years, building and breaking thing
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
-## GitHub Stats
-
-![Can GitHub stats](https://github-readme-stats.vercel.app/api?username=Can-y66&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Can-y66&layout=compact&theme=tokyonight)
-
 
 ### 🔗 Connect With Me
 
