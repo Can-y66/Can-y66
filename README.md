@@ -32,8 +32,9 @@ I’ve been a full-stack developer for over 5 years, building and breaking thing
 
 ### 📊 GitHub Stats
 
-![Can GitHub stats](https://github-readme-stats.vercel.app/api?username=Can-y66&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Can-y66&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Can-y66&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Can-y66&layout=compact&theme=tokyonight)
+
 
 ### 🔗 Connect With Me
 
